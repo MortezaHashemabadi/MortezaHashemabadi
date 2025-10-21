@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there, My name is Morteza 👋
 
-<!--
-**MortezaHashemabadi/MortezaHashemabadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Senior Python Developer  
+💼 Django | FastAPI | Automation | Web Crawlers | DevOps  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 about me
+- 4+ years of experience in Backend development with Python
+- Building **automation systems and various types of robots and scalable APIs**
+- Focus on Clean Architecture and CI/CD
+- Interested in Open Source and n8n-style tools
+
+---
+
+## 🧠 Skills
+**Backend:** Django, DRF, FastAPI
+**Automation:** Celery, Redis, AsyncIO, RQ  
+**DevOps:** Docker, GitHub Actions, Nginx, PostgreSQL  
+**Others:** Web Crawlers, Telegram Bots, REST APIs 
+
+---
+
+## 🧩 Important projects
+
+| 🚀 Niraclub CRM | Communication software between management, employees and customers | Django + SQLite + Redis + Linux |  <span style="color:red"> 🔴 Private </span> |
