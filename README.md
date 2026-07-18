@@ -1,7 +1,7 @@
 ## Hi there, My name is Morteza 👋
 
-🎯 Senior Python Developer  
-💼 Django | FastAPI | Automation | Web Crawlers | DevOps  
+🎯 Full-Stack Developer  
+💼 Django | FastAPI | NextJs | ReactJs | Automation | Web Crawlers | DevOps  
 
 ---
 
